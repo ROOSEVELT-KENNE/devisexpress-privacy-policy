@@ -1,8 +1,8 @@
 # Politique de confidentialité – DevisExpress
 
-**Dernière mise à jour : 9 juillet 2025**
+**Dernière mise à jour : 12 juillet 2025**
 
-L'application **DevisExpress**, développée par **Skillas Service**, respecte la confidentialité de ses utilisateurs.
+L'application **DevisExpress**, développée par **Roosevelt kenne**, respecte la confidentialité de ses utilisateurs.
 
 ## Données collectées
 - Aucune donnée sensible n’est collectée sans votre consentement
@@ -17,4 +17,4 @@ Les données sont utilisées pour :
 Vos données sont protégées et ne sont jamais partagées sans consentement.
 
 ## Contact
-📧 Contactez-nous à : skillasservice@gmail.com
+📧 Contactez-nous à : skillaskenne@gmail.com
